@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Mitacs-ESRI.unity
+- path: Assets/Scenes/ElementDB Connector.unity
   isLoaded: 1
   isActive: 1

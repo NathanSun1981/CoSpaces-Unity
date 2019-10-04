@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ElementDB Connector.unity
+    guid: 3c45054b385ae8a4482a1fa77e872f8f
   m_configObjects: {}
